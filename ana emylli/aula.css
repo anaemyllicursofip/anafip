@@ -1,0 +1,120 @@
+body {
+    background-color:white;
+}
+.teste {
+    color: rgb(12, 12, 12); 
+    text-align: center;
+    font-size: 70px;
+    margin: 0;
+}
+.img1{
+    width:20%;
+    display: flex;
+
+}
+.img2{
+    width:600px;
+    background-color: white;
+    
+
+}
+.div{ 
+     text-align: center;
+    font-size: 25px;
+    display:flex ;
+    flex-direction: column;
+    align-items: center ;
+}
+.paragrafo{
+     text-align: center;
+    font-size: 35px;
+    width: 70%;
+    margin-top: 80px;
+   }
+   
+.paragrafo2{
+    text-align: center;
+   margin-top: 10px;
+  }
+  
+.div1{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.div3{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+ .foto3{
+    text-align: center;
+    width:30%;
+    display: flex;
+
+
+}
+.terra{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.paragrafo3{
+    text-align: center;
+    font-size: 25px;
+    width: 70%;
+    margin-top: 80px;
+}
+.paragrafo4{
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+    margin-top: 8px;
+}
+.titulo1{
+    color: rgb(12, 12, 12); 
+    text-align: center;
+    
+
+}
+.raposa{
+    width: 70%;
+    margin-left: 15%;
+}
+.paragrafo5{
+    text-align: center;
+    font-size: 24px;
+}
+.seis{
+    width: 100px;
+    height: 60px;
+    border-radius: 7%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
